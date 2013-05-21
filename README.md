@@ -1,9 +1,9 @@
-mod-cljs template
-=================
+# mod-cljs template
 
 Leiningen template for creating new cljs projects following the format used in the "modern-cljs" tutorial series by Mimmo Cosenza (https://github.com/magomimmo/modern-cljs).
 
-Usage
-=====
+## Usage
 
-  $ lein new mod-cljs <project-name>
+```bash
+$ lein new mod-cljs <project-name>
+```

@@ -39,7 +39,6 @@
 
                            ;; generated JS code prettyfication
                            :pretty-print true}}
-               }
                :prod
                {;; clojurescript source code path
                 :source-paths ["src/cljs"]
